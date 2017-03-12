@@ -1,0 +1,103 @@
+Four Peaks - N:100 T:25
+
+Iteration: 100
+RHC: 2.0
+SA: 0.0
+GA: 18.0
+MIMIC: 28.0
+
+Iteration: 200
+RHC: 6.0
+SA: 0.0
+GA: 12.0
+MIMIC: 29.0
+
+Iteration: 300
+RHC: 6.0
+SA: 0.0
+GA: 13.0
+MIMIC: 37.0
+
+Iteration: 400
+RHC: 8.0
+SA: 1.0
+GA: 17.0
+MIMIC: 43.0
+
+Iteration: 500
+RHC: 5.0
+SA: 1.0
+GA: 18.0
+MIMIC: 46.0
+
+Iteration: 1000
+RHC: 11.0
+SA: 9.0
+GA: 29.0
+MIMIC: 67.0
+
+Iteration: 1500
+RHC: 13.0
+SA: 13.0
+GA: 54.0
+MIMIC: 89.0
+
+Iteration: 2000
+RHC: 12.0
+SA: 21.0
+GA: 46.0
+MIMIC: 94.0
+
+Iteration: 2500
+RHC: 21.0
+SA: 17.0
+GA: 56.0
+MIMIC: 100.0
+
+Iteration: 3000
+RHC: 37.0
+SA: 17.0
+GA: 52.0
+MIMIC: 100.0
+
+Iteration: 4000
+RHC: 55.0
+SA: 20.0
+GA: 49.0
+MIMIC: 100.0
+
+Iteration: 5000
+RHC: 62.0
+SA: 68.0
+GA: 54.0
+MIMIC: 100.0
+
+Iteration: 7500
+RHC: 94.0
+SA: 68.0
+GA: 56.0
+MIMIC: 100.0
+
+Iteration: 10000
+RHC: 98.0
+SA: 100.0
+GA: 69.0
+MIMIC: 100.0
+
+Iteration: 12500
+RHC: 95.0
+SA: 100.0
+GA: 96.0
+MIMIC: 100.0
+
+Iteration: 15000
+RHC: 100.0
+SA: 100.0
+GA: 100.0
+MIMIC: 100.0
+
+Iteration: 20000
+RHC: 100.0
+SA: 100.0
+GA: 100.0
+MIMIC: 100.0
